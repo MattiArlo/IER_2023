@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 - Libraries: pandas, numpy, matplotlib, seaborn, scipy, statsmodels
 
 You can install the libraries using pip:
-pip install pandas numpy matplotlib seaborn scipy statsmodels
+``` pip install pandas numpy matplotlib seaborn scipy statsmodels ``` 
 
 
 ### Installing
@@ -29,7 +29,7 @@ git clone https://github.com/MattiArlo/IER_2023.git
 
 1. Open the Jupyter notebook `data_analysis.ipynb` in your local development environment.
 2. If the Excel file 'distances.xlsx' is not in the same folder as the notebook, adjust the path in the line that reads the Excel file:
-```pythondf = pd.read_excel('data/distances.xlsx', sheet_name='Stepheight_corrected')
+```pythondf = pd.read_excel('data/distances.xlsx', sheet_name='Stepheight_corrected') ```
 
 Run all cells in the Jupyter notebook to reproduce the analysis.
 
