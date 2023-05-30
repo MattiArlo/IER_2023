@@ -1,5 +1,11 @@
 # IER_2023
 This is the GitHub repository for the ME41125 Introduction to Engineering Research course for 2023
+
+# Original Dataset
+
+The step data used in this analysis is taken from an open access source. The Excel file "distances.xlsx" is taken directly from this source. For any further reference please refer to the orignial data set here: Alex van den Berg, Bart de Vries, Zoe Breedveld, Annelouk van Mierlo,Marnix Tijuis, \& Laura Marchal-Crespo. (2023). Embodiment of virtual feet correlates with motor performance in a target-stepping task: A pilot study (1.0) [Data set]. Zenodo. \url{https://doi.org/10.5281/zenodo.7927391}.
+
+
 # Step Height Variability Analysis
 
 This repository contains a data analysis of step height variability in different avatar representations. The analysis is performed using a Jupyter notebook and data from an Excel file. 
